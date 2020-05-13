@@ -11,8 +11,10 @@ I manage the C.Psyd research lab (Seaside; Computational Psycholinguistics Discu
 
 ### Recent News
 
+May 13: Gave an invited talk to CPL Lab at MIT: [Language is not Language Processing](/assets/pdf/vanschijndel-2020-invited_mit-slides.pdf)
+
+April 30: Forrest Davis' paper on discourse mitigation of RNN garden paths was accepted to CogSci!
+
+April 4: Forrest Davis' [paper on relative clause attachment](/assets/pdf/davis_vanschijndel-2020-acl.pdf) was accepted to ACL!
+
 December 13: Our [Neuropsychologia paper](https://doi.org/10.1101/717512) was finally accepted. We show that linguistic prediction (lexical and syntactic) happens entirely in language-specific brain regions, rather than being driven by domain-general prediction mechanisms. 
-
-November 29: Want to see how your LM analysis results generalize to models with different hidden dimensions, different initializations, or different amounts of training data? Save time/compute and use the 125 LSTMs from our [EMNLP paper](/assets/pdf/vanschijndel_etal-2019-emnlp.pdf): [Hosted on Zenodo](https://doi.org/10.5281/zenodo.3556942)
-
-November 7: Our [CoNLL paper](/assets/pdf/prasad_etal-2019-conll.pdf) was runner up for the Best Paper Award for Research Inspired by Human Language Learning and Processing!
