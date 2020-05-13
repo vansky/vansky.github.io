@@ -13,8 +13,10 @@ I manage the C.Psyd research lab (Seaside; Computational Psycholinguistics Discu
 
 May 13: Gave an invited talk to CPL Lab at MIT: [Language is not Language Processing](/assets/pdf/vanschijndel-2020-invited_mit-slides.pdf)
 
-April 30: Forrest Davis' paper on discourse mitigation of RNN garden paths was accepted to CogSci!
+April 30: Forrest Davis' paper was accepted to CogSci! Explores the ability to learn situation knowledge and discourse representations from plain text.
 
-April 4: Forrest Davis' [paper on relative clause attachment](/assets/pdf/davis_vanschijndel-2020-acl.pdf) was accepted to ACL!
+April 4: Forrest Davis' [paper](/assets/pdf/davis_vanschijndel-2020-acl.pdf) was accepted to ACL! Explores aspects of language comprehension that cannot be learned by current language models.
 
-December 13: Our [Neuropsychologia paper](https://doi.org/10.1101/717512) was finally accepted. We show that linguistic prediction (lexical and syntactic) happens entirely in language-specific brain regions, rather than being driven by domain-general prediction mechanisms. 
+March 19: Forrest Davis' [CUNY presentation](https://osf.io/thj6c/) went well. Explores the ability to learn situation knowledge and discourse representations from plain text.
+
+December 13: Our [Neuropsychologia paper](https://doi.org/10.1101/717512) was finally accepted. Shows that linguistic prediction (lexical and syntactic) happens entirely in language-specific brain regions, rather than being driven by domain-general prediction mechanisms. 
