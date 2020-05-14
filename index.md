@@ -7,7 +7,7 @@ I am an assistant professor of [linguistics](https://linguistics.cornell.edu/) a
 
 Outside of work, I enjoy travel, dinner parties, and gardening.
 
-I manage the C.Psyd research lab (Seaside; Computational Psycholinguistics Discussions). If you have interests in linguistics, cognitive science, and computer science and would like to join my lab, read more [here](/workwithme.html).
+I manage the [Computational Psycholinguistics Discussions research group](/cpsyd.html) (C.Psyd; Seaside).
 
 ### Recent News
 
