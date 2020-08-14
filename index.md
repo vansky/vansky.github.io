@@ -13,7 +13,7 @@ I manage the [Computational Psycholinguistics Discussions research group](/cpsyd
 
 May 13: Gave an invited talk to CPL Lab at MIT: [Language is not Language Processing](/assets/pdf/vanschijndel-2020-invited_mit-slides.pdf)
 
-April 30: Forrest Davis' paper was accepted to CogSci! Explores the ability to learn situation knowledge and discourse representations from plain text.
+April 30: Forrest Davis' [paper](/assets/pdf/davis_vanschijndel-2020-cogsci.pdf) was accepted to CogSci! Explores the ability to learn situation knowledge and discourse representations from plain text.
 
 April 4: Forrest Davis' [paper](/assets/pdf/davis_vanschijndel-2020-acl.pdf) was accepted to ACL! Explores aspects of language comprehension that cannot be learned by current language models.
 
