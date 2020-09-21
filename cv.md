@@ -20,6 +20,9 @@ order: 3
 : *Western Washington University* BA Linguistics (Cum Laude)
 
 ### Awards
+2020
+: ACL 2020 Outstanding Reviewer
+
 2014
 : Saarland University Visiting Fellowship in Language Science (CRC 1102)
 : OSU Targeted Investment in Excellence Grant (with Per Sederberg and William Schuler)
@@ -40,6 +43,16 @@ order: 3
 : WWU Outstanding Graduate Award
 
 ### Service
+2020
+: Conference on Natural Language Learning (CoNLL) 2020, *Area Chair*
+: Linguistics Dept Tenure-Track Search Committee, *Member*
+: Linguistics First Year Advisory Committee, *Member*
+
+2019
+: EMNLP/CoNLL 2019, *Student/Postdoc Faculty Mentor*
+: Linguistics Dept Tenure-Track Search Committee, *Member*
+: Linguistics Graduate Admissions Committee, *Member*
+
 2018
 : Workshop on Cognitive Modeling in Computational Linguistics (CMCL), *Co-organizer*
 : Garrison Forest School/Johns Hopkins University Women in Science and Engineering, *Mentor*
@@ -76,4 +89,4 @@ Journal Reviewing
 Conference Reviewing
 : ACL, CMCL, CogSci, COLING, CoNLL, CUNY Sentence Processing Conference, EACL, EMNLP, LREC, NAACL
 
-*Updated: August 30, 2019*
+*Updated: September 21, 2020*
