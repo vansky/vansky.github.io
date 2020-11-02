@@ -12,6 +12,8 @@ I manage the [Computational Psycholinguistics Discussions research group](/cpsyd
 ### Recent News
 
 Sept 18: 2 papers accepted at CoNLL.
+1) [Bhattacharya and van Schijndel (2020)](/assets/pdf/bhattacharya_vanschijndel-2020-conll.pdf): Neural networks encode abstract filler-gap existence but do not learn more abstract clusterings over kinds of filler-gaps.
+2) [Davis and van Schijndel (2020)](/assets/pdf/davis_vanschijndel-2020-conll.pdf): Transformers encode implicit causality verb biases but fail to use that knowledge to make correct predictions. Validates Hartshorne's theory that IC is learnable from language sequences, but suggests that the language modeling objective prevents models from using this knowledge.
 
 Aug 27: Submitted a paper showing that garden path effects cannot be predicted solely by surprisal. Feedback appreciated! [Single-stage prediction models do not explain the magnitude of syntactic disambiguation difficulty](https://psyarxiv.com/sgbqy/)
 
@@ -22,5 +24,3 @@ April 30: Forrest Davis' [paper](/assets/pdf/davis_vanschijndel-2020-cogsci.pdf)
 April 4: Forrest Davis' [paper](/assets/pdf/davis_vanschijndel-2020-acl.pdf) was accepted to ACL! Explores aspects of language comprehension that cannot be learned by current language models.
 
 March 19: Forrest Davis' [CUNY presentation](https://osf.io/thj6c/) went well. Explores the ability to learn situation knowledge and discourse representations from plain text.
-
-December 13: Our [Neuropsychologia paper](https://doi.org/10.1101/717512) was finally accepted. Shows that linguistic prediction (lexical and syntactic) happens entirely in language-specific brain regions, rather than being driven by domain-general prediction mechanisms. 
