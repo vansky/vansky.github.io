@@ -11,8 +11,8 @@ I manage the [Computational Psycholinguistics Discussions research group](/cpsyd
 
 ### Recent News
 
-Sept 18: 2 papers accepted at CoNLL.
-1) [Bhattacharya and van Schijndel (2020)](/assets/pdf/bhattacharya_vanschijndel-2020-conll.pdf): Neural networks encode abstract filler-gap existence but do not learn more abstract clusterings over kinds of filler-gaps.
+Sept 18: 2 papers accepted at CoNLL.\
+1) [Bhattacharya and van Schijndel (2020)](/assets/pdf/bhattacharya_vanschijndel-2020-conll.pdf): Neural networks encode abstract filler-gap existence but do not learn more abstract clusterings over kinds of filler-gaps.\
 2) [Davis and van Schijndel (2020)](/assets/pdf/davis_vanschijndel-2020-conll.pdf): Transformers encode implicit causality verb biases but fail to use that knowledge to make correct predictions. Validates Hartshorne's theory that IC is learnable from language sequences, but suggests that the language modeling objective prevents models from using this knowledge.
 
 Aug 27: Submitted a paper showing that garden path effects cannot be predicted solely by surprisal. Feedback appreciated! [Single-stage prediction models do not explain the magnitude of syntactic disambiguation difficulty](https://psyarxiv.com/sgbqy/)
