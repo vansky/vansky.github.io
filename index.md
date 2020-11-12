@@ -7,7 +7,7 @@ I am an assistant professor of [linguistics](https://linguistics.cornell.edu/) a
 
 Outside of work, I enjoy travel, dinner parties, and gardening.
 
-I manage the [Computational Psycholinguistics Discussions research group](/cpsyd.html) (C.Psyd).
+I manage the [Computational Psycholinguistics Discussions research group](/cpsyd.html) (C.Psyd) and am part of the [Cornell Computational Linguistics Lab](https://conf.ling.cornell.edu/compling/) (CLab) and the [Cornell Natural Language Processing Group](https://nlp.cornell.edu/) (Cornell NLP).
 
 ### Recent News
 
