@@ -43,6 +43,9 @@ order: 3
 : WWU Outstanding Graduate Award
 
 ### Service
+2021
+: NAACL 2021, *Area Chair*
+
 2020
 : Conference on Natural Language Learning (CoNLL) 2020, *Area Chair*
 : Linguistics Dept Tenure-Track Search Committee, *Member*
@@ -81,7 +84,7 @@ order: 3
 : Speakers Committee, *Treasurer*, OSU
 
 Journal Reviewing
-* Journal of Computational Linguistics
+* Computational Linguistics
 * Language, Cognition, and Neuroscience
 * Philosophical Transactions of the Royal Society B
 * Transactions of the ACL
@@ -89,4 +92,4 @@ Journal Reviewing
 Conference Reviewing
 : ACL, CMCL, CogSci, COLING, CoNLL, CUNY Sentence Processing Conference, EACL, EMNLP, LREC, NAACL
 
-*Updated: September 21, 2020*
+*Updated: December 9, 2020*
