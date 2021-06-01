@@ -16,6 +16,10 @@ My surname is easy to pronounce (in words, not IPA): /van 'shine-dull/
 
 ### Recent News
 
+May 10: 2 papers accepted at ACL and ACL Findings.\
+1) [Davis and van Schijndel (2021)](/assets/pdf/davis_vanschijndel-2021-acl.pdf): We show that linguistic knowledge in language models can be modeled as constraints. Thus, some linguistic representations can prevent other learned linguistic knowledge from surfacing. We show how to fix this, but more generally we outline a framework for thinking about language representations in neural networks.\
+2) [Wilber et al. (2021)](/assets/pdf/wilber_etal-2021-findings_acl.pdf): We explore the abstractive capabilities of automatic summarization models. We show that abstractive summarization is extremely shallow at present, often simply emulating extractive summarization.
+
 Sept 18: 2 papers accepted at CoNLL.\
 1) [Bhattacharya and van Schijndel (2020)](/assets/pdf/bhattacharya_vanschijndel-2020-conll.pdf): Neural networks encode abstract filler-gap existence but do not learn more abstract clusterings over kinds of filler-gaps. Raises questions about the depth of abstraction needed to process text sequences.\
 2) [Davis and van Schijndel (2020)](/assets/pdf/davis_vanschijndel-2020-conll.pdf): Transformers encode implicit causality verb biases but fail to use that knowledge to make correct predictions. Validates Hartshorne's theory that IC is learnable from language sequences, but suggests that the language modeling objective prevents models from using this knowledge.
