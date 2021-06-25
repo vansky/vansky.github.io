@@ -16,6 +16,9 @@ My surname is easy to pronounce (in words, not IPA): /van 'shine-dull/
 
 ### Recent News
 
+June 25: [Cognitive Science paper](/assets/pdf/vanschijndel_linzen-2021-cogscij.pdf) finally published!\
+We show that surprisal (or more generally, single-stage prediction models) can only explain the existence of garden path effects in reading times, not the magnitude of the effects themselves. Suggests the existence of explicit repair mechanisms are involved during garden path processing.
+
 May 10: 2 papers accepted at ACL and ACL Findings.\
 1) [Davis and van Schijndel (2021)](/assets/pdf/davis_vanschijndel-2021-acl.pdf): We show that linguistic knowledge in language models can be modeled as constraints. Thus, some linguistic representations can prevent other learned linguistic knowledge from surfacing. We show how to fix this, but more generally we outline a framework for thinking about language representations in neural networks.\
 2) [Wilber et al. (2021)](/assets/pdf/wilber_etal-2021-findings_acl.pdf): We explore the abstractive capabilities of automatic summarization models. We show that abstractive summarization is extremely shallow at present, often simply emulating extractive summarization.
