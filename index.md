@@ -16,6 +16,10 @@ My surname is easy to pronounce (in words, not IPA): /van 'shine-dull/
 
 ### Recent News
 
+Aug 26: Timkey and van Schijndel (2021) accepted at EMNLP: We show that pre-trained language models consistently develop rogue dimensions that operate at bizarrely inflated scales and track relatively uninteresting phenomena (e.g., time since last punctuation mark). The inflated scale distorts similarity estimates and makes cosine a poor measure of similarity. We introduce a very simple method to correct for the issue that retains all information in the model and requires no retraining.
+
+July 26: [Ryb and van Schijndel (2021)](/assets/pdf/ryb_vanschijndel-2021-cstfrs.pdf): Studies symbolic reasoning in BERT.
+
 June 25: [Cognitive Science paper](/assets/pdf/vanschijndel_linzen-2021-cogscij.pdf) finally published!\
 We show that surprisal (or more generally, single-stage prediction models) can only explain the existence of garden path effects in reading times, not the magnitude of the effects themselves. Suggests the existence of explicit repair mechanisms are involved during garden path processing.
 
@@ -29,10 +33,4 @@ Sept 18: 2 papers accepted at CoNLL.\
 
 Aug 27: Submitted a paper showing that garden path effects cannot be predicted solely by surprisal. Feedback appreciated! [Single-stage prediction models do not explain the magnitude of syntactic disambiguation difficulty](https://psyarxiv.com/sgbqy/)
 
-May 13: Gave an invited talk to CPL Lab at MIT: [Language is not Language Processing](/assets/pdf/vanschijndel-2020-invited_mit-slides.pdf)
-
-April 30: Forrest Davis' [paper](/assets/pdf/davis_vanschijndel-2020-cogsci.pdf) was accepted to CogSci! Explores the ability to learn situation knowledge and discourse representations from plain text.
-
-April 4: Forrest Davis' [paper](/assets/pdf/davis_vanschijndel-2020-acl.pdf) was accepted to ACL! Explores aspects of language comprehension that cannot be learned by current language models.
-
-March 19: Forrest Davis' [CUNY presentation](https://osf.io/thj6c/) went well. Explores the ability to learn situation knowledge and discourse representations from plain text.
+May 13: Gave an invited talk at MIT BCS: [Language is not Language Processing](/assets/pdf/vanschijndel-2020-invited_mit-slides.pdf)
