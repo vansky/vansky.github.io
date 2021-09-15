@@ -16,7 +16,7 @@ My surname is easy to pronounce (in words, not IPA): /van 'shine-dull/
 
 ### Recent News
 
-Aug 26: Timkey and van Schijndel (2021) accepted at EMNLP: We show that pre-trained language models consistently develop rogue dimensions that operate at bizarrely inflated scales and track relatively uninteresting phenomena (e.g., time since last punctuation mark). The inflated scale distorts similarity estimates and makes cosine a poor measure of similarity. We introduce a very simple method to correct for the issue that retains all information in the model and requires no retraining.
+Aug 26: [Timkey and van Schijndel (2021)](/assets/pdf/timkey_vanschijndel-2021-emnlp.pdf) accepted at EMNLP 2021: We show that pre-trained language models consistently develop rogue dimensions that operate at bizarrely inflated scales and track relatively uninteresting phenomena (e.g., time since last punctuation mark). The inflated scale distorts similarity estimates and makes cosine a poor measure of similarity. We introduce a very simple method to correct for the issue that retains all information in the model and requires no retraining.
 
 July 26: [Ryb and van Schijndel (2021)](/assets/pdf/ryb_vanschijndel-2021-cstfrs.pdf): Shows that, although shallow heuristics are used extensively by BERT during NLI, certain kinds of symbolic reasoning also arise in BERT. Some types of reasoning, such as spatial reasoning remain beyond it.
 
