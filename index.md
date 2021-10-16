@@ -10,7 +10,7 @@ If you're interested in incremental processing models, you may find these helpfu
 * [125 pre-trained English LSTMs](https://zenodo.org/record/3559340)  
 * [Left-corner parsing toolkit that can estimate incremental processing difficulty](https://github.com/modelblocks/modelblocks-release)
 
-I manage the [Computational Psycholinguistics Discussions research group](/cpsyd.html) (C.Psyd) and am part of the [Cornell Computational Linguistics Lab](https://conf.ling.cornell.edu/compling/) (CLab) and the [Cornell Natural Language Processing Group](https://nlp.cornell.edu/) (Cornell NLP).
+I manage the [Computational Psycholinguistics Discussions research group](https://c-psyd.github.io/) (C.Psyd) and am part of the [Cornell Computational Linguistics Lab](https://conf.ling.cornell.edu/compling/) (CLab) and the [Cornell Natural Language Processing Group](https://nlp.cornell.edu/) (Cornell NLP).
 
 My surname is easy to pronounce (in words, not IPA): /van 'shine-dull/
 
