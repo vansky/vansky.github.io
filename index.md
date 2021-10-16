@@ -16,6 +16,8 @@ My surname is easy to pronounce (in words, not IPA): /van 'shine-dull/
 
 ### Recent News
 
+Oct 15: Gave a talk at the Georgia Tech NLP Seminar
+
 Aug 26: [Timkey and van Schijndel (2021)](/assets/pdf/timkey_vanschijndel-2021-emnlp.pdf) accepted at EMNLP 2021: We show that Transformer models consistently develop rogue dimensions that operate at bizarrely inflated scales and track relatively uninteresting phenomena (e.g., time since last punctuation mark). The inflated scale distorts similarity estimates and makes cosine a poor measure of similarity. We introduce a very simple method to correct for the issue that retains all information in the model and requires no retraining.
 
 July 26: [Ryb and van Schijndel (2021)](/assets/pdf/ryb_vanschijndel-2021-cstfrs.pdf): Shows that, although shallow heuristics are used extensively by BERT during NLI, certain kinds of symbolic reasoning also arise in BERT. Some types of reasoning, such as spatial reasoning remain beyond it.
@@ -30,7 +32,3 @@ May 10: 2 papers accepted at ACL and ACL Findings.\
 Sept 18: 2 papers accepted at CoNLL.\
 1) [Bhattacharya and van Schijndel (2020)](/assets/pdf/bhattacharya_vanschijndel-2020-conll.pdf): Neural networks encode abstract filler-gap existence but do not learn more abstract clusterings over kinds of filler-gaps. Raises questions about the depth of abstraction needed to process text sequences.\
 2) [Davis and van Schijndel (2020)](/assets/pdf/davis_vanschijndel-2020-conll.pdf): Transformers encode implicit causality verb biases but fail to use that knowledge to make correct predictions. Validates Hartshorne's theory that IC is learnable from language sequences, but suggests that the language modeling objective prevents models from using this knowledge.
-
-Aug 27: Submitted a paper showing that garden path effects cannot be predicted solely by surprisal. Feedback appreciated! [Single-stage prediction models do not explain the magnitude of syntactic disambiguation difficulty](https://psyarxiv.com/sgbqy/)
-
-May 13: Gave an invited talk at MIT BCS: [Language is not Language Processing](/assets/pdf/vanschijndel-2020-invited_mit-slides.pdf)
