@@ -19,7 +19,11 @@ order: 3
 2005-2009
 : *Western Washington University* BA Linguistics (Cum Laude)
 
-### Awards
+### Awards / Grants
+2021
+: Migrations Initiative grant: Xenophobia Meter Project: Tracking Xenophobic Twitter Speech to Inform (and Shift) Policy ($85,428), *Key Collaborator*
+: Mario Einaudi Center for International Studies seed grant: Xenophobia Meter Project ($10,000), *Key Collaborator*
+
 2020
 : ACL 2020 Outstanding Reviewer
 
@@ -45,11 +49,15 @@ order: 3
 ### Service
 2021
 : NAACL 2021, *Area Chair*
+: Glossa Psycholinguistics, *Editorial Board Member*
+: Center for Data Science for Enterprise and Society Recruitment Committee, *Member*
+: North American Computational Linguistics Olympiad, *Co-organizer*
 
 2020
 : Conference on Natural Language Learning (CoNLL) 2020, *Area Chair*
 : Linguistics Dept Tenure-Track Search Committee, *Member*
 : Linguistics First Year Advisory Committee, *Member*
+: North American Computational Linguistics Olympiad, *Co-organizer*
 
 2019
 : EMNLP/CoNLL 2019, *Student/Postdoc Faculty Mentor*
@@ -92,4 +100,4 @@ Journal Reviewing
 Conference Reviewing
 : ACL, CMCL, CogSci, COLING, CoNLL, CUNY Sentence Processing Conference, EACL, EMNLP, LREC, NAACL
 
-*Updated: December 9, 2020*
+*Updated: October 16, 2021*
