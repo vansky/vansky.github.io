@@ -1,10 +1,5 @@
-<!DOCTYPE html>
-<html>
-  <head>
-    <script src="https://cdn.jsdelivr.net/npm/d3@7"></script>
-<script>
-    var w = 800;
-  var h = 650;
+  var w = 975;
+  var h = 735;
 
 
   var svg = d3.selectAll(".svg")
@@ -25,6 +20,24 @@
       {
     task: "Courses",
     type: "First",
+    startTime: "2021-2-1", //year/month/day
+    endTime: "2021-6-1",
+},
+            {
+    task: "NSF GRFP",
+    type: "First",
+    startTime: "2020-10-1", //year/month/day
+    endTime: "2020-11-1",
+},
+      {
+    task: "Courses",
+    type: "Second",
+    startTime: "2020-9-1", //year/month/day
+    endTime: "2021-1-1",
+},
+      {
+    task: "Courses",
+    type: "Second",
     startTime: "2021-2-1", //year/month/day
     endTime: "2021-6-1",
 },
@@ -89,7 +102,7 @@
     endTime: "2021-9-1",
 },
       {
-    task: "Market Prep",
+    task: "Market Prep (soft)",
     type: "Third",
     startTime: "2021-6-1",
     endTime: "2021-9-1",
@@ -126,13 +139,13 @@
 },
       
 {
-    task: "Drafted",
+    task: "Diss Draft",
     type: "Fifth",
     startTime: "2021-1-1",
     endTime: "2021-2-1",
 },
 {
-    task: "Submit",
+    task: "Submit Diss",
     type: "Fifth",
     startTime: "2021-3-1",
     endTime: "2021-4-1",
@@ -193,7 +206,6 @@ var colorScale = d3.scale.linear()
     .domain([0, categories.length])
     .range(["#00B9FA", "#F95002"])
     .interpolate(d3.interpolateHcl);
-
 makeGrid(sidePadding, topPadding, pageWidth, pageHeight);
 drawRects(tasks, gap, topPadding, sidePadding, barHeight, colorScale, pageWidth, pageHeight);
 vertLabels(gap, topPadding, sidePadding, barHeight, colorScale);
@@ -289,11 +301,12 @@ var grid = svg.append('g')
     .attr('transform', 'translate(' +theSidePad + ', ' + (h - 50) + ')')
     .call(xAxis)
     .selectAll("text")  
-            .style("text-anchor", "middle")
+            .style("text-anchor", "start")
             .attr("fill", "#000")
             .attr("stroke", "none")
             .attr("font-size", 10)
-            .attr("dy", "1em");
+            .attr("dy", "1em")
+            .attr("dx", "2.2em");
 }
 
 function vertLabels(theGap, theTopPad, theSidePad, theBarHeight, theColorScale){
@@ -361,80 +374,4 @@ function getCounts(arr) {
 // get specific from everything
 function getCount(word, arr) {
     return getCounts(arr)[word] || 0;
-}</script>
-
-<style>
-
-  
-    * {
-      margin: 0;
-      padding: 0;
-  }
-  body {
-      background: #fff;
-      font-family: 'Open-Sans',sans-serif;
-
-  }
-
-#container{
-  margin: 0 auto;
-  position: relative;
-  width:800px;
-  overflow: visible;
 }
-
-
-  .svg {
-    width:2000px;
-    height:600px;
-    overflow: visible;
-    position:absolute;
-}
-
-.grid .tick {
-    stroke: lightgrey;
-    opacity: 0.3;
-    shape-rendering: crispEdges;
-}
-.grid path {
-      stroke-width: 0;
-}
-
-
-#tag {
-  color: white;
-  background: #FA283D;
-  width: 150px;
-  position: absolute;
-  display: none;
-  padding:3px 6px;
-  margin-left: -80px;
-  font-size: 11px;
-}
-
-
-
-#tag:before {
-  border: solid transparent;
-  content: ' ';
-  height: 0;
-  left: 50%;
-  margin-left: -5px;
-  position: absolute;
-  width: 0;
-  border-width: 10px;
-  border-bottom-color: #FA283D;
-  top: -20px;
-}
-  </style>
-
-</head>
-<body>
-
- <div id = "container">
-<div class = "svg"></div>
-<div id = "tag"></div>
-</div>
-
-</body>
-</html> 
