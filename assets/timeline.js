@@ -1,5 +1,5 @@
   var w = 975;
-  var h = 735;
+  var h = 750;
 
 
   var svg = d3.selectAll(".svg")
@@ -41,6 +41,12 @@
     startTime: "2021-2-1", //year/month/day
     endTime: "2021-6-1",
 },
+      {
+    task: "Q work",
+    type: "Second",
+    startTime: "2020-9-1",
+    endTime: "2021-1-1",
+},
        {
     task: "Publish",
     type: "Second",
@@ -48,13 +54,7 @@
     endTime: "2021-1-1",
 },
       {
-    task: "Q work",
-    type: "Second",
-    startTime: "2020-12-1",
-    endTime: "2021-1-1",
-},
-      {
-    task: "Q-paper",
+    task: "Submit Q",
     type: "Second",
     startTime: "2021-4-1",
     endTime: "2021-5-1",
@@ -72,19 +72,19 @@
     endTime: "2021-9-1",
 },
       {
+    task: "A work",
+    type: "Third",
+    startTime: "2020-9-1",
+    endTime: "2021-1-1",
+},
+      {
     task: "Publish",
     type: "Third",
     startTime: "2020-11-1",
     endTime: "2021-1-1",
 },
       {
-    task: "A work",
-    type: "Third",
-    startTime: "2020-12-1",
-    endTime: "2021-1-1",
-},
-      {
-    task: "A-paper",
+    task: "Submit A",
     type: "Third",
     startTime: "2021-4-1",
     endTime: "2021-5-1",
@@ -107,11 +107,11 @@
     startTime: "2021-6-1",
     endTime: "2021-9-1",
 },
-            {
-    task: "Publish",
+      {
+    task: "Diss Proposal",
     type: "Fourth",
-    startTime: "2020-11-1",
-    endTime: "2021-1-1",
+    startTime: "2020-9-1",
+    endTime: "2020-12-1",
 },
       {
     task: "P-exam",
@@ -119,6 +119,13 @@
     startTime: "2020-12-1",
     endTime: "2021-1-1",
 },
+            {
+    task: "Publish",
+    type: "Fourth",
+    startTime: "2020-11-1",
+    endTime: "2021-1-1",
+},
+      
       {
     task: "Conferences",
     type: "Fourth",
@@ -137,7 +144,6 @@
     startTime: "2020-9-1",
     endTime: "2021-1-1",
 },
-      
 {
     task: "Diss Draft",
     type: "Fifth",
