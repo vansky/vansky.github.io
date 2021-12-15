@@ -92,12 +92,17 @@ order: 3
 : Speakers Committee, *Treasurer*, OSU
 
 Journal Reviewing
+* Cognitive Science
 * Computational Linguistics
+* Glossa: Psycholinguistics
+* Language and Linguistics Compass
 * Language, Cognition, and Neuroscience
+* Neuropsychologia
+* Open Mind
 * Philosophical Transactions of the Royal Society B
 * Transactions of the ACL
 
 Conference Reviewing
-: ACL, CMCL, CogSci, COLING, CoNLL, CUNY Sentence Processing Conference, EACL, EMNLP, LREC, NAACL
+: ACL, CMCL, CogSci, COLING, CoNLL, Human Sentence Processing Conference, EACL, EMNLP, LREC, NAACL
 
-*Updated: October 16, 2021*
+*Updated: December 14, 2021*
