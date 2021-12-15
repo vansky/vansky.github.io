@@ -16,9 +16,9 @@ My surname is easy to pronounce (in words, not IPA): /van 'shine-dull/
 
 ### Recent News
 
-Dec 3: Gave a [talk](/assets/pdf/vanschijndel-2021-invited_chicago-slides.pdf) at University of Chicago
+Dec 3: Gave an invited talk at University of Chicago: [Language Statistics Won't Solve Language Processing](/assets/pdf/vanschijndel-2021-invited_chicago-slides.pdf)
 
-Oct 15: Gave a [talk](/assets/pdf/vanschijndel-2021-invited_georgia_tech-slides.pdf) at the Georgia Tech NLP Seminar
+Oct 15: Gave an invited talk at Georgia Tech NLP Seminar: [Language Statistics Won't Solve Language Processing](/assets/pdf/vanschijndel-2021-invited_georgia_tech-slides.pdf)
 
 Aug 26: [Timkey and van Schijndel (2021)](/assets/pdf/timkey_vanschijndel-2021-emnlp.pdf) accepted at EMNLP 2021: We show that Transformer models consistently develop rogue dimensions that operate at bizarrely inflated scales and track relatively uninteresting phenomena (e.g., time since last punctuation mark). The inflated scale distorts similarity estimates and makes cosine a poor measure of similarity. We introduce a very simple method to correct for the issue that retains all information in the model and requires no retraining.
 
