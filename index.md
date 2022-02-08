@@ -16,6 +16,10 @@ My surname is easy to pronounce (in words, not IPA): /van 'shine-dull/
 
 ### Recent News
 
+Feb 1: Gave an invited talk at UC Irvine: [Neural Language Priming](/assets/pdf/vanschijndel-2022-invited_irvine-slides.pdf)
+
+Jan 25: Gave an invited talk at Dongguk University: [NLP: Neural Language Priming](/assets/pdf/vanschijndel-2022-invited_dongguk-slides.pdf)
+
 Dec 3: Gave an invited talk at University of Chicago: [Language Statistics Won't Solve Language Processing](/assets/pdf/vanschijndel-2021-invited_chicago-slides.pdf)
 
 Oct 15: Gave an invited talk at Georgia Tech NLP Seminar: [Language Statistics Won't Solve Language Processing](/assets/pdf/vanschijndel-2021-invited_georgia_tech-slides.pdf)
