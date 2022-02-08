@@ -47,6 +47,9 @@ order: 3
 : WWU Outstanding Graduate Award
 
 ### Service
+2022
+: Society for Computation in Linguistics (SCiL) 2022, *Session Chair*
+
 2021
 : NAACL 2021, *Area Chair*
 : Glossa Psycholinguistics, *Editorial Board Member*
@@ -105,4 +108,4 @@ Journal Reviewing
 Conference Reviewing
 : ACL, CMCL, CogSci, COLING, CoNLL, Human Sentence Processing Conference, EACL, EMNLP, LREC, NAACL
 
-*Updated: December 14, 2021*
+*Updated: Feb 7, 2022*
