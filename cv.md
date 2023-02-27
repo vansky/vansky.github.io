@@ -48,7 +48,13 @@ order: 3
 
 ### Service
 2022
+: EMNLP 2022, *Area Chair*
 : Society for Computation in Linguistics (SCiL) 2022, *Session Chair*
+: Glossa Psycholinguistics, *Editorial Board Member*
+: Center for Data Science for Enterprise and Society Recruitment Committee, *Member*
+: Linguistics Dept Tenure-Track Search Committee, *Member*
+: Linguistics Graduate Admissions Committee, *Member*
+: North American Computational Linguistics Olympiad, *Co-organizer*
 
 2021
 : NAACL 2021, *Area Chair*
@@ -98,14 +104,16 @@ Journal Reviewing
 * Cognitive Science
 * Computational Linguistics
 * Glossa: Psycholinguistics
+* Language
 * Language and Linguistics Compass
 * Language, Cognition, and Neuroscience
 * Neuropsychologia
+* Northern European Journal of Language Technology
 * Open Mind
 * Philosophical Transactions of the Royal Society B
 * Transactions of the ACL
 
 Conference Reviewing
-: ACL, CMCL, CogSci, COLING, CoNLL, Human Sentence Processing Conference, EACL, EMNLP, LREC, NAACL
+: ACL, CMCL, CogSci, COLING, CoNLL, EACL, EMNLP, Human Sentence Processing Conference, LREC, NAACL
 
-*Updated: Feb 7, 2022*
+*Updated: Feb 27, 2023*
