@@ -24,4 +24,11 @@ Dec 9: 1 [Findings of EMNLP](https://aclanthology.org/2023.findings-emnlp.532.pd
 
 Apr 3: Gave an invited talk at University of Florida: [Surprising Linkages](/assets/pdf/vanschijndel-2023-invited_florida-slides.pdf)
 
+Mar 9: 5 HSP Posters: 
+* Deb Bhattacharya showed that code-switching shows that code-switching behavior is influenced by pressures in both languages rather than primarily being influenced by pressure from the matrix language.
+* Deb Bhattacharya showed that the influence of surprisal on code-switching is driven by a desire to signal for increased listener attention rather than a speaker driven desire to select a more predictable continuation.
+* John Starr showed that semantic priming effects can be inhibited by phonological load.
+* John Starr showed that timing of phonological and syntactic processing chage based on their relative loads, suggesting that the processor optimizes the input streams differently based on load distribution.
+* Jacob Matthews analyzes how neural language models process unknown words, relative to how humans process nonce words. 
+
 Jan 20: Gave an invited talk at Duesseldorf University: [Surprising Mechanisms](/assets/pdf/vanschijndel-2023-invited_duesseldorf-slides.pdf)
