@@ -3,7 +3,7 @@ layout: default
 title: Home
 ---
 
-I am an assistant professor of [linguistics](https://linguistics.cornell.edu/) at [Cornell University](https://www.cornell.edu/). I am very interested in the incremental representations that humans use to process language, and in differences between how language is used and how it is processed. To explore these topics, I study the relationships between computational language models and psycholinguistic data (e.g., reading times) and I study neural network representations of language to understand what aspects of language can be learned from language statistics directly without having experiences in the real world (i.e. through ungrounded learning).
+I am an assistant professor of computational linguistics at [Cornell University](https://www.cornell.edu/). I am very interested in the incremental representations that humans use to process language, and in differences between how language is used and how it is processed. To explore these topics, I study the relationships between computational language models and psycholinguistic data (e.g., reading times) and I study neural network representations of language to understand what aspects of language can be learned from language statistics directly without having experiences in the real world (i.e. through ungrounded learning).
 
 If you're interested in incremental processing models, you may find these helpful:  
 * [LSTM toolkit that can estimate incremental processing difficulty](https://github.com/vansky/neural-complexity)  
