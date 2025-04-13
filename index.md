@@ -16,19 +16,22 @@ My surname is easy to pronounce (in words, not IPA): /van 'shine-dull/
 
 ### Recent News
 
-Jan 6: 2 posters at LSA: 
-* Kihyo Park shows that animacy drives processing of Korean double nominatives, rather than alienability as previously claimed. 
-* Kaelyn Lamp shows that causative constructions in hate speech are characterized more by how they minimize blame towards majority groups rather than increase blame towards minority groups.
+July 30: 3 posters at CogSci:
+* John R. Starr and Ashlyn Winship will introduce a novel experimental paradigm/toolkit for probing contextualized semantic spaces in humans
+* Ashlyn Winship and Zander Lynch probed the extent to which implicit arguments are represented in sentence processing along with the influence of aspect on this process.
+* John R. Starr showed that focus can transfer semantic information from known alternatives to new referents.
 
-Dec 9: 1 [Findings of EMNLP](https://aclanthology.org/2023.findings-emnlp.532.pdf) paper published: Fangcong Yin analyzes the compression process humans use to generate summaries and the compression functions preferred by human readers. 
+May 1: 1 talk at NAACL:
+* Jacob Matthews developed a novel computational method based on Stochastic Autoencoders for tracking semantic change in historical texts.
 
-Apr 3: Gave an invited talk at University of Florida: [Surprising Linkages](/assets/pdf/vanschijndel-2023-invited_florida-slides.pdf)
+April 18: I'm co-organizing the annual [Workshop on Processing and Evaluation Event Representations (PEER)](https://peer-workshop.github.io) in Rochester with [Aaron White](https://aaronstevenwhite.io/)
 
-Mar 9: 5 HSP Posters: 
-* Deb Bhattacharya showed that code-switching shows that code-switching behavior is influenced by pressures in both languages rather than primarily being influenced by pressure from the matrix language.
-* Deb Bhattacharya showed that the influence of surprisal on code-switching is driven by a desire to signal for increased listener attention rather than a speaker driven desire to select a more predictable continuation.
-* John Starr showed that semantic priming effects can be inhibited by phonological load.
-* John Starr showed that timing of phonological and syntactic processing chage based on their relative loads, suggesting that the processor optimizes the input streams differently based on load distribution.
-* Jacob Matthews analyzes how neural language models process unknown words, relative to how humans process nonce words. 
+April 15: I'm giving a talk at University of Rochester's Center for Language Sciences: _Eventful processing: Constructing event representations from language_.
 
-Jan 20: Gave an invited talk at Duesseldorf University: [Surprising Mechanisms](/assets/pdf/vanschijndel-2023-invited_duesseldorf-slides.pdf)
+April 4: New journal article in _Cognitive Science_ with John R. Starr demonstrates that classic phonotactic effects can be delayed or eliminated in syntactic and discoursive contexts, suggesting that processors prioritize simpler tasks earlier, in line with race models and good enough processing accounts.
+
+March 27: 3 posters at HSP:
+* Ashlyn Winship, Zander Lynch (along with the rest of the lab) probed the extent to which implicit arguments are represented in sentence processing along with the influence of aspect on this process.
+* Lucas Y. Li and Zander Lynch developed a novel computational method to identify the locus of semantic role information during sentence processing.
+* John R. Starr showed that focus can transfer semantic information from known alternatives to new referents.
+
