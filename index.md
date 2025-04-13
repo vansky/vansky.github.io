@@ -19,7 +19,7 @@ My surname is easy to pronounce (in words, not IPA): /van 'shine-dull/
 July 30: 3 posters at CogSci: 
 * John R. Starr and Ashlyn Winship will introduce a novel experimental paradigm/toolkit for probing contextualized semantic spaces in humans
 * Ashlyn Winship and Zander Lynch probed the extent to which implicit arguments are represented in sentence processing along with the influence of aspect on this process.
-* John R. Starr showed that focus can transfer semantic information from known alternatives to new referents.
+* John R. Starr showed that focus can transfer information about possible events from alternative sets to new referents.
 
 May 1: 1 talk at NAACL: 
 * Jacob Matthews developed a novel computational method based on Stochastic Autoencoders for tracking semantic change in historical texts.
@@ -33,4 +33,4 @@ April 4: New journal article in _Cognitive Science_ with John R. Starr demonstra
 March 27: 3 posters at HSP: 
 * Ashlyn Winship, Zander Lynch (along with the rest of the lab) probed the extent to which implicit arguments are represented in sentence processing along with the influence of aspect on this process.
 * Lucas Y. Li and Zander Lynch developed a novel computational method to identify the locus of semantic role information during sentence processing.
-
+* John R. Starr showed that focus can transfer information about possible events from alternative sets to new referents.
